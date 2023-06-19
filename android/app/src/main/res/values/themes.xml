@@ -1,0 +1,5 @@
+<resources>
+    <style name="ThemeOverlay.AppCompat.DayNight.ActionBar." parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Base.ThemeOverlay.AppCompat.Light" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
